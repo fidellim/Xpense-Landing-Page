@@ -5,7 +5,7 @@ const Hero = () => {
     // destructure hero data
     const { title, subtitle, btnText, compText, image } = hero
     return (
-        <section className="min-h-[900px] py-12">
+        <section id="home" className="min-h-[900px] py-12">
             <div className="container mx-auto min-h-[900px] flex justify-center items-center">
                 <div className="flex flex-col lg:gap-x-[30px] gap-y-8 lg:gap-y-0 lg:flex-row items-center justify-center text-center lg:text-left">
                     {/* text */}
