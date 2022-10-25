@@ -27,8 +27,10 @@ import CtaImg2 from '../assets/cta/image2.svg'
 import FacebookIcon from '../assets/copyright/facebook.svg'
 import TwitterIcon from '../assets/copyright/twitter.svg'
 import LinkedinIcon from '../assets/copyright/linkedin.svg'
+import ArrowImg from '../assets/product/cards/arrow.svg'
 
 export {
+    ArrowImg,
     LogoImg,
     HeroImg,
     OverviewProductImg,
