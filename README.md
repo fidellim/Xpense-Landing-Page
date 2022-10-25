@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Solution]()
--   Live Site URL: [Live Site]()
+-   Solution URL: [Solution](https://github.com/fidellim/Xpense-Landing-Page)
+-   Live Site URL: [Live Site](https://xpense-fidellim.netlify.app/)
 
 ## My process
 
