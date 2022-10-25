@@ -10,7 +10,7 @@ const Cards = () => {
     return (
         <>
             {/* cards */}
-            <div className="flex flex-col flex-wrap justify-center items-center gap-y-[30px] lg:flex-row lg:gap-x-[30px]">
+            <div className="flex flex-col gap-y-[30px] lg:flex-row lg:gap-x-[30px]">
                 {cards.map((card, cardIndex) => {
                     // destructure card
                     const { icon, title, subtitle, delay } = card
