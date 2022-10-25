@@ -43,6 +43,7 @@ Users should be able to:
 
 -   [Animation on Scroll library](https://michalsnik.github.io/aos/)
 -   [Documentaion of AOS library](https://github.com/michalsnik/aos)
+-   [Swiper Docs](https://swiperjs.com/)
 
 ## Author
 
