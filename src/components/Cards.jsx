@@ -19,7 +19,7 @@ const Cards = () => {
                             key={cardIndex}
                             data-aos="zoom-out"
                             data-aos-offset="300"
-                            data-aos-delay="delay"
+                            data-aos-delay={delay}
                         >
                             <div
                                 onClick={() => setIndex(cardIndex)}
@@ -38,7 +38,9 @@ const Cards = () => {
                                 {/* card subtitle */}
                                 <p className="mb-6 text-light">{subtitle}</p>
                                 {/* arrow img */}
-                                {index === cardIndex && <img src={ArrowImg} />}
+                                {index === cardIndex && (
+                                    <img src={ArrowImg} alt="arrow" />
+                                )}
                             </div>
                         </div>
                     )
