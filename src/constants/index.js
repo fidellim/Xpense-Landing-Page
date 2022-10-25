@@ -1,6 +1,7 @@
 import LogoImg from '../assets/header/logo.svg'
 import HeroImg from '../assets/hero/image.svg'
 import OverviewProductImg from '../assets/overview/product.svg'
+import OverviewBg from '../assets/overview/bg.svg'
 import FacebookImg from '../assets/overview/brands/facebook.svg'
 import GoogleImg from '../assets/overview/brands/google.svg'
 import CocaColaImg from '../assets/overview/brands/coca-cola.svg'
@@ -31,6 +32,7 @@ export {
     LogoImg,
     HeroImg,
     OverviewProductImg,
+    OverviewBg,
     FacebookImg,
     GoogleImg,
     CocaColaImg,
